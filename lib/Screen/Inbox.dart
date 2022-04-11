@@ -32,7 +32,7 @@ class My_Inbox extends StatelessWidget {
                 padding: const EdgeInsets.all(10.0),
                 decoration: const BoxDecoration(border: Border(bottom: BorderSide(color: Colors.black45, width: 1.0))),
                 child: ListTile(
-                  leading: Icon(Icons.account_circle),
+                  leading: Icon(Icons.account_circle, size: 50),
                   title: Column(
                     children: <Widget>[
                       Row(
@@ -70,7 +70,7 @@ class My_Inbox extends StatelessWidget {
                 padding: const EdgeInsets.all(10.0),
                 decoration: const BoxDecoration(border: Border(bottom: BorderSide(color: Colors.black45, width: 1.0))),
                 child: ListTile(
-                  leading: Icon(Icons.account_circle),
+                  leading: Icon(Icons.account_circle, size: 50),
                   title: Column(
                     children: <Widget>[
                       Row(
@@ -108,7 +108,7 @@ class My_Inbox extends StatelessWidget {
                 padding: const EdgeInsets.all(10.0),
                 decoration: const BoxDecoration(border: Border(bottom: BorderSide(color: Colors.black45, width: 1.0))),
                 child: ListTile(
-                  leading: Icon(Icons.account_circle),
+                  leading: Icon(Icons.account_circle, size: 50),
                   title: Column(
                     children: <Widget>[
                       Row(
@@ -146,7 +146,7 @@ class My_Inbox extends StatelessWidget {
                 padding: const EdgeInsets.all(10.0),
                 decoration: const BoxDecoration(border: Border(bottom: BorderSide(color: Colors.black45, width: 1.0))),
                 child: ListTile(
-                  leading: Icon(Icons.account_circle),
+                  leading: Icon(Icons.account_circle, size: 50),
                   title: Column(
                     children: <Widget>[
                       Row(
@@ -184,89 +184,13 @@ class My_Inbox extends StatelessWidget {
                 padding: const EdgeInsets.all(10.0),
                 decoration: const BoxDecoration(border: Border(bottom: BorderSide(color: Colors.black45, width: 1.0))),
                 child: ListTile(
-                  leading: Icon(Icons.account_circle),
+                  leading: Icon(Icons.account_circle, size: 50),
                   title: Column(
                     children: <Widget>[
                       Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: const <Widget>[
                           Text('ALexander', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
-                          Text(
-                            "2h",
-                            style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14, color: Colors.grey),
-                          ),
-                        ],
-                      ),
-                    ],
-                  ),
-                  subtitle: Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: <Widget>[
-                      Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: const [
-                          Text('Hello World!', style: TextStyle(fontWeight: FontWeight.bold)),
-                          Text("How Are You?...")
-                        ],
-                      ),
-                      const Icon(
-                        Icons.star_border,
-                        size: 16,
-                        color: Colors.grey,
-                      ),
-                    ],
-                  ),
-                ),
-              ),
-              Container(
-                padding: const EdgeInsets.all(10.0),
-                decoration: const BoxDecoration(border: Border(bottom: BorderSide(color: Colors.black45, width: 1.0))),
-                child: ListTile(
-                  leading: Icon(Icons.account_circle),
-                  title: Column(
-                    children: <Widget>[
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: const <Widget>[
-                          Text('Sultan', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
-                          Text(
-                            "2h",
-                            style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14, color: Colors.grey),
-                          ),
-                        ],
-                      ),
-                    ],
-                  ),
-                  subtitle: Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: <Widget>[
-                      Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: const [
-                          Text('Hello World!', style: TextStyle(fontWeight: FontWeight.bold)),
-                          Text("How Are You?...")
-                        ],
-                      ),
-                      const Icon(
-                        Icons.star_border,
-                        size: 16,
-                        color: Colors.grey,
-                      ),
-                    ],
-                  ),
-                ),
-              ),
-              Container(
-                padding: const EdgeInsets.all(10.0),
-                decoration: const BoxDecoration(border: Border(bottom: BorderSide(color: Colors.black45, width: 1.0))),
-                child: ListTile(
-                  leading: Icon(Icons.account_circle),
-                  title: Column(
-                    children: <Widget>[
-                      Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: const <Widget>[
-                          Text('Brody', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
                           Text(
                             "2h",
                             style: TextStyle(fontWeight: FontWeight.bold, fontSize: 14, color: Colors.grey),
