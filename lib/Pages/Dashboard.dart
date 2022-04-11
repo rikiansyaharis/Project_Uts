@@ -263,7 +263,10 @@ class Dashboard extends StatelessWidget {
                 padding: const EdgeInsets.all(10.0),
                 decoration: const BoxDecoration(border: Border(bottom: BorderSide(color: Colors.black45, width: 1.0))),
                 child: ListTile(
-                  leading: Icon(Icons.account_circle),
+                  leading: Icon(
+                    Icons.account_circle,
+                    size: 50,
+                  ),
                   title: Column(
                     children: <Widget>[
                       Row(
