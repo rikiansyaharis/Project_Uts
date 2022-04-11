@@ -56,8 +56,8 @@ class Dashboard extends StatelessWidget {
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: const [
-                          Text('Weekend Meeting?', style: TextStyle(fontWeight: FontWeight.bold)),
-                          Text("Can you meet this weekend?...")
+                          Text('Hello World', style: TextStyle(fontWeight: FontWeight.bold)),
+                          Text("How Are You?...")
                         ],
                       ),
                       const Icon(
@@ -94,8 +94,8 @@ class Dashboard extends StatelessWidget {
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: const [
-                          Text('Weekend Meeting?', style: TextStyle(fontWeight: FontWeight.bold)),
-                          Text("Can you meet this weekend?...")
+                          Text('Hello World', style: TextStyle(fontWeight: FontWeight.bold)),
+                          Text("How Are You?...")
                         ],
                       ),
                       const Icon(
@@ -132,8 +132,8 @@ class Dashboard extends StatelessWidget {
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: const [
-                          Text('Weekend Meeting?', style: TextStyle(fontWeight: FontWeight.bold)),
-                          Text("Can you meet this weekend?...")
+                          Text('Hello World', style: TextStyle(fontWeight: FontWeight.bold)),
+                          Text("How Are You?...")
                         ],
                       ),
                       const Icon(
@@ -170,8 +170,8 @@ class Dashboard extends StatelessWidget {
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: const [
-                          Text('Weekend Meeting?', style: TextStyle(fontWeight: FontWeight.bold)),
-                          Text("Can you meet this weekend?...")
+                          Text('Hello World', style: TextStyle(fontWeight: FontWeight.bold)),
+                          Text("How Are You?...")
                         ],
                       ),
                       const Icon(
@@ -208,8 +208,8 @@ class Dashboard extends StatelessWidget {
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: const [
-                          Text('Weekend Meeting?', style: TextStyle(fontWeight: FontWeight.bold)),
-                          Text("Can you meet this weekend?...")
+                          Text('Hello World', style: TextStyle(fontWeight: FontWeight.bold)),
+                          Text("How Are You?...")
                         ],
                       ),
                       const Icon(
@@ -246,8 +246,8 @@ class Dashboard extends StatelessWidget {
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: const [
-                          Text('Weekend Meeting?', style: TextStyle(fontWeight: FontWeight.bold)),
-                          Text("Can you meet this weekend?...")
+                          Text('Hello World', style: TextStyle(fontWeight: FontWeight.bold)),
+                          Text("How Are You?...")
                         ],
                       ),
                       const Icon(
@@ -284,8 +284,8 @@ class Dashboard extends StatelessWidget {
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: const [
-                          Text('Weekend Meeting?', style: TextStyle(fontWeight: FontWeight.bold)),
-                          Text("Can you meet this weekend?...")
+                          Text('Hello World', style: TextStyle(fontWeight: FontWeight.bold)),
+                          Text("How Are You?...")
                         ],
                       ),
                       const Icon(
